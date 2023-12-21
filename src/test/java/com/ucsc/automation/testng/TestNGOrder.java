@@ -48,4 +48,9 @@ public class TestNGOrder {
     public void testMethod(){
         System.out.println("Im from testMethod");
     }
+
+    @Test
+    public void testMethod2(){
+        System.out.println("Im from testMethod 2");
+    }
 }
