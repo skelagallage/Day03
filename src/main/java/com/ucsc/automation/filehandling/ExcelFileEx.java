@@ -74,8 +74,8 @@ public class ExcelFileEx {
     }
 
     public static void main(String[] args) throws IOException {
-//        new ExcelFileEx().writePersonDataExcel();
-        new ExcelFileEx().readPersonDataExcel();
+        new ExcelFileEx().writePersonDataExcel();
+//        new ExcelFileEx().readPersonDataExcel();
     }
 
 }
